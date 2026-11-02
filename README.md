@@ -12,7 +12,6 @@
 | Bonus table | `customer_returns` (8 returns, linked by `CustomerID`) |
 | Output | Cleaned data + answers to 17 business questions + 1 bonus join |
 
-## What I did
 
 **1. Built the database**
 Created the `ecomm` database and tables, and loaded all the data with the script itself (no import needed).
